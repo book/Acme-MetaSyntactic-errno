@@ -1,5 +1,9 @@
 Revision history for Acme-MetaSyntactic-errno
 
-1.000 Thu June 21 2012
+1.001 Fri Jul 13 2012
+        [DOCUMENTATION]
+        - add a LICENSE section
+
+1.000 Thu Jun 21 2012
         - First release
 
