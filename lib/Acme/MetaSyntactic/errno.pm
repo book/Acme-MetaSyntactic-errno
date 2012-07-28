@@ -42,6 +42,8 @@ Philippe Bruhat (BooK)
 
 Added a LICENSE section, to please CPANTS.
 
+=item *
+
 2012-06-21 - v1.000
 
 Published as part of the Booking.com Hackathon.
