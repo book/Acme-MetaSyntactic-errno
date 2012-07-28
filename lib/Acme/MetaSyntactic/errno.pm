@@ -2,7 +2,7 @@ package Acme::MetaSyntactic::errno;
 use strict;
 use Acme::MetaSyntactic::MultiList;
 our @ISA     = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 
 use Errno ();
 
@@ -35,6 +35,12 @@ Philippe Bruhat (BooK)
 =head1 CHANGES
 
 =over 4
+
+=item *
+
+2012-07-23 - v1.002
+
+Fix in the documentation CHANGES section.
 
 =item *
 
