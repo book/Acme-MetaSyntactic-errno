@@ -11,4 +11,5 @@ cover_db
 *.bak
 *.swp
 *~
+META.*
 MYMETA.*
